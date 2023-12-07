@@ -1,0 +1,53 @@
+body {
+    background: rgb(242, 236, 236); 
+    }
+
+    h1 {
+        font-size: 34px; 
+        color: #1909fa; 
+        text-align: center
+        }
+
+
+
+        p {
+            font-family: "Helvetica"; 
+            font-size: 24px; 
+            color: rgb(31, 122, 226); 
+            margin: 100px ; 
+            text-align: center;
+        }
+
+        img {
+            width: 70%;
+            height: 70%;
+            margin-left: 8cm;
+            }
+
+
+            .cabecalho{
+                background-color: floralwhite;
+                display: flex;
+            }
+            .lista_cabecalho{
+                display: flex;
+                margin-left: 250px;
+            }
+            .item_lista_cabecalho{
+                color: #a02822;
+                list-style: none;
+                text-transform: uppercase;
+                font-size: 10px;
+                padding: 5px;
+                text-align: center;
+            }
+            .logo{
+                width: 10%;
+
+            }
+            .butao{
+                width: 10%;
+                margin-left: 20cm;
+
+
+            }
